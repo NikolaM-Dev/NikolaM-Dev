@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/logo.png" alt="logo" width="250">
+	<img src="./assets/logo.png" alt="logo" width="200">
 </div>
 
 <p align="center">
@@ -25,6 +25,9 @@
 
 ### <img alt="vim icon" src="./assets/octicons/vim.svg" width=24 /> Vim stuffs
   - [nvim](https://github.com/NikolaM-Dev/dotfiles/tree/main/.config/nvim) My personal neovim config with lots of person hack and all written in vimscript.
+
+### <img alt="vscode icon" src="./assets/octicons/vscode.png" width=24/ > vscode stuffs
+- [nikola-snippets](https://github.com/NikolaM-Dev/nikola-snippets) All the snippets you'll need.
 
 <br />
 
