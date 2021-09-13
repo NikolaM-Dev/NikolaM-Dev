@@ -10,11 +10,11 @@
 <b><a href="juan1014166@gmail.com"> Email me</a></b>
 
 <p align="center">
-	<img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-	<img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
 	<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/>
+	<img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+	<img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e0234e" />
 	<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab"/>
-	<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+	<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&labelColor=black&logo=neovim&logoColor=2357A143"/>
 </p>
 
 <div align='center'>
