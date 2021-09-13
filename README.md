@@ -10,10 +10,10 @@
 <b><a href="juan1014166@gmail.com"> Email me</a></b>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-	<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-	<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+	<img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+	<img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+	<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/>
+	<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab"/>
 	<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
@@ -42,6 +42,6 @@
 
 ### Connect with me
 
-- [📧 **Email**](juan1014166@gmail.com)
+- 📧 **Email:** juan1014166@gmail.com
 - [🐦 **Twitter**](https://twitter.com/nikolam_dev)
 - [📸 **Intagram**](https://www.instagram.com/nikolam_dev)
