@@ -23,10 +23,17 @@
 
 <hr/>
 
+### <img alt="node icon" src="./assets/octicons/node.svg" width=24 /> Backend stuffs
+
+- [ecommerce-store-nest-mongo](https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo) NestJS + Moongose + Auth + Swagger API
+- [rest-server-js](https://github.com/NikolaM-Dev/rest-server-js) Express + Mongoose + Auth API
+
 ### <img alt="vim icon" src="./assets/octicons/vim.svg" width=24 /> Vim stuffs
-  - [nvim](https://github.com/NikolaM-Dev/dotfiles/tree/main/.config/nvim) My personal neovim config with lots of person hack and all written in vimscript.
+
+- [nvim](https://github.com/NikolaM-Dev/dotfiles/tree/main/.config/nvim) My personal neovim config with lots of person hack and all written in vimscript.
 
 ### <img alt="vscode icon" src="./assets/octicons/vscode.png" width=24/ > vscode stuffs
+
 - [nikola-snippets](https://github.com/NikolaM-Dev/nikola-snippets) All the snippets you'll need.
 
 <br />
