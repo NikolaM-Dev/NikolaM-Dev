@@ -25,7 +25,7 @@
 
 ### <img alt="node icon" src="./assets/octicons/node.svg" width=24 /> Backend stuffs
 
-- [ecommerce-store-nest-mongo](https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo) NestJS + Moongose + Auth + Swagger API
+- [ecommerce-store-nest-mongo](https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo) NestJS + MongoDB + Auth + Swagger + JWT + Roles
 - [ecommerce-store-nest-postgres](https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres) NestJS + Postgres SQL + Auth + Swagger + JWT + Roles
 - [rest-server-js](https://github.com/NikolaM-Dev/rest-server-js) Express + Mongoose + Auth API
 
