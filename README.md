@@ -27,7 +27,13 @@
 
 - [ecommerce-store-nest-mongo](https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo) NestJS + MongoDB + Auth + Swagger + JWT + Roles
 - [ecommerce-store-nest-postgres](https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres) NestJS + Postgres SQL + Auth + Swagger + JWT + Roles
+- [parq-api-nest](https://github.com/NikolaM-Dev/parq-api-nest) NestJS + Postgres SQL + Swagger + Geolocation
 - [rest-server-js](https://github.com/NikolaM-Dev/rest-server-js) Express + Mongoose + Auth API
+
+### <img alt="vim icon" src="./assets/octicons/react.svg" width=25 /> React Native stuffs
+
+- [rn-calculator ](https://github.com/NikolaM-Dev/rn-calculator) iOS Calculator Clone using React Native
+- [rn-counter-app](https://github.com/NikolaM-Dev/rn-counter-app) Counter App using React Native
 
 ### <img alt="vim icon" src="./assets/octicons/vim.svg" width=24 /> Vim stuffs
 
@@ -41,9 +47,9 @@
 
 ### Hi i'm Juan David
 
-- 🔭 I'm currently working on [**Moldy**](https://github.com/Moldy-Community)
+- 🔭 I'm currently working on **`PARQ`**
 - 🌱 I’m currently learning Backend with [`NodeJS`](https://nodejs.org/en/) with [`TypeScript`](https://www.typescriptlang.org/)
-- 🥅 2021 Goals: Learn backend con Node/ts and frontend React/ts ⚛️
+- <del>🥅 2021 Goals: Learn backend con Node/ts and frontend React/ts ⚛️</del>
 - ⚡ Fun fact: I love sports 🏋️‍♂️, playing video games 🎮 and socializing💃
 
 <br />
