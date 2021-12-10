@@ -48,8 +48,8 @@
 ### Hi i'm Juan David
 
 - 🔭 I'm currently working on **`PARQ`**
-- 🌱 I’m currently learning Backend with [`NodeJS`](https://nodejs.org/en/) with [`TypeScript`](https://www.typescriptlang.org/)
-- <del>🥅 2021 Goals: Learn backend con Node/ts and frontend React/ts ⚛️</del>
+- 🌱 I’m currently learning React-Native with [`TypeScript`](https://www.typescriptlang.org/)
+- ✅ <del>🥅 2021 Goals: Learn backend con Node/ts and frontend React/ts ⚛️</del>
 - ⚡ Fun fact: I love sports 🏋️‍♂️, playing video games 🎮 and socializing💃
 
 <br />
