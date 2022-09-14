@@ -35,9 +35,9 @@
 - [rn-calculator ](https://github.com/NikolaM-Dev/rn-calculator) iOS Calculator Clone using React Native
 - [rn-counter-app](https://github.com/NikolaM-Dev/rn-counter-app) Counter App using React Native
 
-### <img alt="vim icon" src="./assets/octicons/vim.svg" width=24 /> Vim stuffs
+### <img alt="lua icon" src="./assets/octicons/lua.svg" width=24 /> Lua stuffs
 
-- [nvim](https://github.com/NikolaM-Dev/dotfiles/tree/main/.config/nvim) My personal neovim config with lots of person hack and all written in vimscript.
+- [nvim](https://github.com/NikolaM-Dev/nvim) My personal neovim config with lots of person hack and all written in vimscript.
 
 ### <img alt="vscode icon" src="./assets/octicons/vscode.png" width=24/ > vscode stuffs
 
