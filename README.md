@@ -30,7 +30,7 @@
 - [parq-api-nest](https://github.com/NikolaM-Dev/parq-api-nest) NestJS + Postgres SQL + Swagger + Geolocation
 - [rest-server-js](https://github.com/NikolaM-Dev/rest-server-js) Express + Mongoose + Auth API
 
-### <img alt="vim icon" src="./assets/octicons/react.svg" width=25 /> React Native stuffs
+### <img alt="react icon" src="./assets/octicons/react.svg" width=25 /> React Native stuffs
 
 - [rn-calculator ](https://github.com/NikolaM-Dev/rn-calculator) iOS Calculator Clone using React Native
 - [rn-counter-app](https://github.com/NikolaM-Dev/rn-counter-app) Counter App using React Native
