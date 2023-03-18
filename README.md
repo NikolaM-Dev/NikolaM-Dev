@@ -69,6 +69,44 @@
       alt="GitHub Commits Graph" /></a>
 </details>
 
-- 📧 **Email:** juan1014166@gmail.com
-- [🐦 **Twitter**](https://twitter.com/nikolam_dev)
-- [📸 **Intagram**](https://www.instagram.com/nikolam_dev)
+<details>
+  <summary>
+    <b>Books I Recommend 📚</b>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451?crid=1FUUVAB8ZSEIT&keywords=Fundamentals+of+Software+Architecture&qid=1676622946&sprefix=fundamentals+of+software+architecture,aps,58&sr=8-1&linkCode=sl1&tag=rubyannrcarri-20&linkId=2a4cb57704d41914436fd9c3ce518ef8&language=en_US&ref_=as_li_ss_tl"
+        target="_blank" alt="Fundamentals of Software Architecture: An Engineering Approach">
+        Fundamentals of Software Architecture: An Engineering Approach
+      </a>
+    </li>
+    <li>
+      <a href="https://www.amazon.com/-/es/Neal-Ford/dp/1492097543/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11IGJAGIH4H68&keywords=Building+Evolutionary+Architectures&qid=1679257787&sprefix=building+evolutionary+architectures%2Caps%2C129&sr=8-1"
+        target="_blank" alt="Building Evolutionary Architectures: Automated Software Governance">
+        Building Evolutionary Architectures: Automated Software Governance
+      </a>
+    </li>
+    <li>
+      <a href="https://www.amazon.com/-/es/Sam-Newman/dp/1492034029/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1U261AHFK33G1&keywords=Building+Microservices%3A+Designing+Fine-Grained+Systems&qid=1679257999&s=books&sprefix=building+microservices+designing+fine-grained+systems%2Cstripbooks-intl-ship%2C129&sr=1-1"
+        target="_blank" alt="Building Microservices: Designing Fine-Grained Systems">
+        Building Microservices: Designing Fine-Grained Systems
+      </a>
+    </li>
+    <li>
+      <a href="https://www.amazon.com/-/es/Neal-Ford/dp/1492086894/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2Y28DNQHOI11F&keywords=Software+Architecture%3A+The+Hard+Parts&qid=1679258026&s=books&sprefix=software+architecture+the+hard+parts%2Cstripbooks-intl-ship%2C137&sr=1-1"
+        target="_blank"
+        alt="Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures">
+        Software Architecture: The Hard Parts: Modern Trade-Off Analyses for
+        Distributed Architectures
+      </a>
+    </li>
+    <li>
+      <a href="https://www.amazon.com/-/es/Martin-Kleppmann/dp/1449373321/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VQB1KY6MHTO4&keywords=Designing+Data-Intensive+Application&qid=1679258066&s=books&sprefix=designing+data-intensive+application%2Cstripbooks-intl-ship%2C141&sr=1-1"
+        target="_blank"
+        alt="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems">
+        Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
+        Scalable, and Maintainable Systems
+      </a>
+    </li>
+  </ul>
+</details>
