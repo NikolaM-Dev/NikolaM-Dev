@@ -47,11 +47,17 @@
 
 ### Hi i'm Juan David
 
-- 🔭 I'm currently working on **`PARQ`**
-- 🥅 **Goals**: Learn all about React, Golang & Architecture
-- ⚡ Fun fact: I love sports 🏋️‍♂️, playing video games 🎮 and socializing💃
+#### Interesting 👀
 
-<br />
+<details>
+  <summary>
+    <b>Commit Streak ✌️</b>
+  </summary>
+  <a href="http://www.github.com/NikolaM-Dev">
+    <img
+      src="https://streak-stats.demolab.com?user=NikolaM-Dev&theme=tokyonight&border_radius=10&background=1E1E2E&border=89B4FA&stroke=CDD6F4&ring=89B4FA&fire=F38BA8&currStreakNum=F38BA8&sideNums=89B4FA&currStreakLabel=74C7EC&sideLabels=74C7EC&dates=B4BEFE" />
+  </a>
+</details>
 
 ### Connect with me
 
