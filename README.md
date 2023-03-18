@@ -59,7 +59,15 @@
   </a>
 </details>
 
-### Connect with me
+<details>
+  <summary>
+    <b>Commit Graph 📈</b>
+  </summary>
+  <a href="http://www.github.com/NikolaM-Dev">
+    <img
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=NikolaM-Dev&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f38ba8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
+      alt="GitHub Commits Graph" /></a>
+</details>
 
 - 📧 **Email:** juan1014166@gmail.com
 - [🐦 **Twitter**](https://twitter.com/nikolam_dev)
