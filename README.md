@@ -21,7 +21,16 @@
 	<b>A Gopher that is on the way to being full stack, delving into the frontend and hand in hand with tests with typescript</b>
 </div>
 
-<hr/>
+## Full Stack Enginnier
+
+A Gopher that is on the way to being full stack, delving into the frontend and hand in hand with tests with typescript
+
+- 🌍 I'm based in Colombia 🇨🇴
+- 🖥️ See my portfolio at [Portfolio | WIP](http://nikolam-dev.com)
+- ✉️ You can contact me at [juan1014166@gmail.com](mailto:juan1014166@gmail.com)
+- 🚀 I'm currently working on [PARQ](http://parqco.com)
+- 🧠 I'm learning Software Architecture & Soft Skills
+- 🤝 I'm open to collaborating on Personal Side Projects
 
 ### Skills 🔥
 
