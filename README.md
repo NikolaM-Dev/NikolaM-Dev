@@ -36,11 +36,11 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo" align="left">
-    <img align="left" width="48%"
+    <img align="left" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres" align="right">
-    <img align="right" width="48%"
+    <img align="right" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
 </div>
@@ -49,11 +49,11 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/NikolaM-Dev/parq-api-nest" align="left">
-    <img align="left" width="48%"
+    <img align="left" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/NikolaM-Dev/giffy" align="right">
-    <img align="right" width="48%"
+    <img align="right" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
 </div>
@@ -62,11 +62,11 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/NikolaM-Dev/bookings" align="left">
-    <img align="left" width="48%"
+    <img align="left" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=bookings&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/NikolaM-Dev/nvim" align="right">
-    <img align="right" width="48%"
+    <img align="right" width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
   </a>
 </div>
