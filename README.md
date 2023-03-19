@@ -25,7 +25,7 @@
 
 ### <img alt="node icon" src="./assets/octicons/node.svg" width=24 /> Backend stuffs
 
-#### Socials 💃
+### Socials 💃
 
 <p align="left">
   <a href="https://www.github.com/NikolaM-Dev" target="_blank" rel="noreferrer">
