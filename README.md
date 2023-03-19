@@ -32,20 +32,46 @@
 
 ### <img alt="react icon" src="./assets/octicons/react.svg" width=25 /> React Native stuffs
 
-- [rn-calculator ](https://github.com/NikolaM-Dev/rn-calculator) iOS Calculator Clone using React Native
-- [rn-counter-app](https://github.com/NikolaM-Dev/rn-counter-app) Counter App using React Native
+### Top Repositories 🥇
 
-### <img alt="lua icon" src="./assets/octicons/lua.svg" width=24 /> Lua stuffs
+<div width="100%" align="center">
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo" align="left">
+    <img align="left" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres" align="right">
+    <img align="right" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+</div>
 
-- [nvim](https://github.com/NikolaM-Dev/nvim) My personal neovim config with lots of person hack and all written in vimscript.
+<br /><br /><br /><br /><br />
 
-### <img alt="vscode icon" src="./assets/octicons/vscode.png" width=24/ > vscode stuffs
+<div width="100%" align="center">
+  <a href="https://github.com/NikolaM-Dev/parq-api-nest" align="left">
+    <img align="left" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/giffy" align="right">
+    <img align="right" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+</div>
 
-- [nikola-snippets](https://github.com/NikolaM-Dev/nikola-snippets) All the snippets you'll need.
+<br /><br /><br /><br /><br />
 
-<br />
+<div width="100%" align="center">
+  <a href="https://github.com/NikolaM-Dev/bookings" align="left">
+    <img align="left" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=bookings&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/nvim" align="right">
+    <img align="right" width="49%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
+  </a>
+</div>
 
-### Hi i'm Juan David
+<br /><br /><br /><br /><br />
 
 ### Interesting 👀
 
