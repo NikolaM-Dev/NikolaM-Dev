@@ -25,12 +25,35 @@
 
 ### <img alt="node icon" src="./assets/octicons/node.svg" width=24 /> Backend stuffs
 
-- [ecommerce-store-nest-mongo](https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo) NestJS + MongoDB + Auth + Swagger + JWT + Roles
-- [ecommerce-store-nest-postgres](https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres) NestJS + Postgres SQL + Auth + Swagger + JWT + Roles
-- [parq-api-nest](https://github.com/NikolaM-Dev/parq-api-nest) NestJS + Postgres SQL + Swagger + Geolocation
-- [rest-server-js](https://github.com/NikolaM-Dev/rest-server-js) Express + Mongoose + Auth API
+#### Socials 💃
 
-### <img alt="react icon" src="./assets/octicons/react.svg" width=25 /> React Native stuffs
+<p align="left">
+  <a href="https://www.github.com/NikolaM-Dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+      width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="http://www.instagram.com/nikolam_dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+      width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nikolam-dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.twitter.com/nikolam_dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+      width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.twitch.tv/NikolaMDev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
+      width="32" height="32" />
+  </a>
+</p>
 
 ### Top Repositories 🥇
 
