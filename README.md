@@ -113,7 +113,7 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
     alt="NestJS"
     height="14"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-    width=14"
+    width="14"
   />
   Nest.js
 </h4>
