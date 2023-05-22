@@ -46,49 +46,56 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
       width="36"
       height="36"
       alt="NextJs"
-  /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
       width="36"
       height="36"
       alt="TailwindCSS"
-  /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
       width="36"
       height="36"
       alt="Angular"
-  /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
       width="36"
       height="36"
       alt="GraphQL"
-  /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
       width="36"
       height="36"
       alt="NestJS"
-  /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
       width="36"
       height="36"
       alt="MongoDB"
-  /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-    ><img
+    />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
       width="36"
       height="36"
       alt="PostgreSQL"
-  /></a>
+    />
+  </a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
