@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>JUAN DAVID MERCHAN TORRES</h1>
-</div>
+# JUAN DAVID MERCHAN TORRES
 
 ## Full Stack Engineer
 
