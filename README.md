@@ -111,9 +111,9 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 <h4>
   <img
     alt="NestJS"
-    height="14"
+    height="16"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-    width="14"
+    width="16"
   />
   Nest.js
 </h4>
@@ -166,9 +166,9 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 <h4>
     <img
       alt="ReactJS"
-      height="14"
+      height="16"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="14"
+      width="16"
     />
   React.js
 </h4>
@@ -192,9 +192,9 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 <h4>
   <img
     alt="Go"
-    height="14"
+    height="16"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
-    width="14"
+    width="16"
   />
   Go
 </h4>
