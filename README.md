@@ -164,23 +164,6 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 </div>
 
 <div width="100%" align="center">
-  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo" align="left">
-    <img align="left" width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres" align="right">
-    <img align="right" width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
-  </a>
-</div>
-
-<br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/NikolaM-Dev/parq-api-nest" align="left">
-    <img align="left" width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
-  </a>
   <a href="https://github.com/NikolaM-Dev/giffy" align="right">
     <img align="right" width="47%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
