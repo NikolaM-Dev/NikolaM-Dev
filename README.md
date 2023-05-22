@@ -4,7 +4,13 @@
 
 ## Full Stack Engineer
 
-A Gopher that is on the way to being full stack, delving into the frontend and hand in hand with tests with typescript
+As a highly motivated full stack developer, my passion lies in creating dynamic
+and functional web applications. With a solid background in frontend and backend
+development, I take pride in my ability to translate ideas into clean and
+efficient code. My focus is on delivering high-quality technical solutions while
+effectively collaborating with multidisciplinary teams. I actively seek new
+challenges to expand my skill set, and I am thrilled to contribute to the
+success of ambitious projects.
 
 - 🌍 I'm based in Colombia 🇨🇴
 - 🖥️ See my portfolio at [Portfolio | WIP](http://nikolam-dev.com)
