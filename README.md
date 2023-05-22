@@ -163,14 +163,31 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
   &nbsp;
 </div>
 
-<div width="100%" align="center">
-  <a href="https://github.com/NikolaM-Dev/giffy" align="right">
-    <img align="right" width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
-  </a>
-</div>
+<h4>
+    <img
+      alt="ReactJS"
+      height="14"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="14"
+    />
+  React.js
+</h4>
 
-<br /><br /><br /><br /><br /><br />
+<div float="left">
+  <a href="https://github.com/NikolaM-Dev/giffy#gh-dark-mode-only">
+    <img
+      alt="Ecommerce Store - MongoDB"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/giffy#gh-light-mode-only">
+    <img
+      alt="Ecommerce Store - MongoDB"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+</div>
 
 <div width="100%" align="center">
   <a href="https://github.com/NikolaM-Dev/bookings" align="left">
