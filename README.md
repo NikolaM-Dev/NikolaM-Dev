@@ -106,36 +106,6 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
   </a>
 </p>
 
-### Socials 💃
-
-<p align="left">
-  <a href="https://www.github.com/NikolaM-Dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-      width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="http://www.instagram.com/nikolam_dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-      width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nikolam-dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-      width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitter.com/nikolam_dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-      width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitch.tv/NikolaMDev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg"
-      width="32" height="32" />
-  </a>
-</p>
-
 ### Top Repositories 🥇
 
 <div width="100%" align="center">
