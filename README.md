@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋 My name is Juan David Merchan Torres</h1>
+  <h1>JUAN DAVID MERCHAN TORRES</h1>
 </div>
 
 ## Full Stack Engineer
