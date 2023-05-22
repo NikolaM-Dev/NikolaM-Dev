@@ -2,7 +2,7 @@
   <h1>Hi 👋 My name is Juan David Merchan Torres</h1>
 </div>
 
-## Full Stack Enginnier
+## Full Stack Engineer
 
 A Gopher that is on the way to being full stack, delving into the frontend and hand in hand with tests with typescript
 
