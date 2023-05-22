@@ -108,6 +108,61 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 
 ### Top Repositories 🥇
 
+<h4>
+  <img
+    alt="NestJS"
+    height="14"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+    width=14"
+  />
+  Nest.js
+</h4>
+
+<div float="left">
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo#gh-dark-mode-only">
+    <img
+      alt="Ecommerce Store - MongoDB"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo#gh-light-mode-only">
+    <img
+      alt="Ecommerce Store - MongoDB"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres#gh-dark-mode-only">
+    <img
+      alt="Ecommerce Store - PostgreSQL"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres#gh-light-mode-only">
+    <img
+      alt="Ecommerce Store - PostgreSQL"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+</div>
+                                                                                                                                      
+<div float="left">
+  <a href="https://github.com/NikolaM-Dev/parq-api-nest#gh-dark-mode-only">
+    <img
+      alt="PARQ - Code Interview"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/parq-api-nest#gh-light-mode-only">
+    <img
+      alt="PARQ - Code Interview"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+</div>
+
 <div width="100%" align="center">
   <a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo" align="left">
     <img align="left" width="47%"
