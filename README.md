@@ -222,7 +222,7 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
     src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"
     width="16"
   />
-  Go
+  Neovim
 </h4>
 
 <div float="left">
