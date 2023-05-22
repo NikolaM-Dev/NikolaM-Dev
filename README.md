@@ -176,13 +176,13 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 <div float="left">
   <a href="https://github.com/NikolaM-Dev/giffy#gh-dark-mode-only">
     <img
-      alt="Ecommerce Store - MongoDB"
+      alt="Giffy"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
     />
   </a>
   <a href="https://github.com/NikolaM-Dev/giffy#gh-light-mode-only">
     <img
-      alt="Ecommerce Store - MongoDB"
+      alt="Giffy"
       src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&v=3#gh-light-mode-only"
     />
   </a>
