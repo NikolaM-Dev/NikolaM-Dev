@@ -215,14 +215,44 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
   &nbsp;
 </div>
 
-<div width="100%" align="center">
-  <a href="https://github.com/NikolaM-Dev/nvim" align="right">
-    <img align="right" width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&title_color=94e2d5&text_color=cdd6f4&icon_color=cba6f7&bg_color=1e1e2e&hide_border=true&locale=en" />
-  </a>
-</div>
+<h4>
+  <img
+    alt="Neovim"
+    height="16"
+    src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"
+    width="16"
+  />
+  Go
+</h4>
 
-<br /><br /><br /><br /><br /><br />
+<div float="left">
+  <a href="https://github.com/NikolaM-Dev/nvim#gh-dark-mode-only">
+    <img
+      alt="Neovim Config"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/nvim#gh-light-mode-only">
+    <img
+      alt="Neovim Config"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NikolaM-Dev/nvim-web-devicons#gh-dark-mode-only">
+    <img
+      alt="Neovim Web Icons"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim-web-devicons&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only"
+    />
+  </a>
+  <a href="https://github.com/NikolaM-Dev/nvim-web-devicons#gh-light-mode-only">
+    <img
+      alt="Neovim Web Icons"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim-web-devicons&v=3#gh-light-mode-only"
+    />
+  </a>
+  &nbsp;
+</div>
 
 ### Interesting 👀
 
