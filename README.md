@@ -146,7 +146,7 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
   </a>
   &nbsp;
 </div>
-                                                                                                                                      
+
 <div float="left">
   <a href="https://github.com/NikolaM-Dev/parq-api-nest#gh-dark-mode-only">
     <img
