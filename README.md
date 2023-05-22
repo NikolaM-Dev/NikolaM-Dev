@@ -164,12 +164,12 @@ A Gopher that is on the way to being full stack, delving into the frontend and h
 </div>
 
 <h4>
-    <img
-      alt="ReactJS"
-      height="16"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="16"
-    />
+  <img
+    alt="ReactJS"
+    height="16"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+    width="16"
+  />
   React.js
 </h4>
 
