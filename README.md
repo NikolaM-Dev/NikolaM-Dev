@@ -1,6 +1,6 @@
 # JUAN DAVID MERCHAN TORRES
 
-## Full Stack Engineer
+## FULL STACK ENGINEER
 
 As a highly motivated full stack developer, my passion lies in creating dynamic
 and functional web applications. With a solid background in frontend and backend
