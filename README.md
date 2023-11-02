@@ -106,9 +106,6 @@ success of ambitious projects.
 <a href="https://github.com/NikolaM-Dev/nvim#gh-dark-mode-only"><img alt="Neovim Config" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
 <a href="https://github.com/NikolaM-Dev/nvim#gh-light-mode-only"><img alt="Neovim Config" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim&v=3#gh-light-mode-only" /></a>
 &nbsp;
-<a href="https://github.com/NikolaM-Dev/nvim-web-devicons#gh-dark-mode-only"><img alt="Neovim Web Icons" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim-web-devicons&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/nvim-web-devicons#gh-light-mode-only"><img alt="Neovim Web Icons" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=nvim-web-devicons&v=3#gh-light-mode-only" /></a>
-&nbsp;
 </div>
 
 ### Interesting 👀
