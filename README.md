@@ -20,7 +20,7 @@ success of ambitious projects.
 ### Skills 🔥
 
 <div align="left">
-<a href="https://neovim.io/" target="_blank" title="Neovim" rel="noreferrer"><img alt="Neovim" height="44" src="https://skillicons.dev/icons?i=neovim" width="44" /></ahref>
+<a href="https://neovim.io/" target="_blank" title="Neovim" rel="noreferrer"><img alt="Neovim" height="44" src="https://skillicons.dev/icons?i=neovim" width="44" /></a>
 <a href="https://go.dev/" target="_blank" title="Golang" rel="noreferrer"><img alt="Go" height="44" src="https://skillicons.dev/icons?i=go" width="44" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img alt="TypeScript" height="44" src="https://skillicons.dev/icons?i=ts" width="44" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" title="NestJS" rel="noreferrer"><img alt="NestJS" height="44" src="https://skillicons.dev/icons?i=nest" width="44" /></a>
