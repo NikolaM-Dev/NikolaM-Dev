@@ -20,17 +20,20 @@ success of ambitious projects.
 ### Skills 🔥
 
 <div align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img alt="TypeScript" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img alt="Go" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img alt="React" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img alt="NextJs" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="TailwindCSS" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img alt="Angular" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img alt="GraphQL" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img alt="NestJS" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img alt="MongoDB" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img alt="PostgreSQL" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img alt="Supabase" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" /></a>
+<a href="https://neovim.io/" target="_blank" title="Neovim" rel="noreferrer"><img alt="Neovim" height="44" src="https://skillicons.dev/icons?i=neovim" width="44" /></ahref>
+<a href="https://go.dev/" target="_blank" title="Golang" rel="noreferrer"><img alt="Go" height="44" src="https://skillicons.dev/icons?i=go" width="44" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img alt="TypeScript" height="44" src="https://skillicons.dev/icons?i=ts" width="44" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" title="NestJS" rel="noreferrer"><img alt="NestJS" height="44" src="https://skillicons.dev/icons?i=nest" width="44" /></a>
+<a href="https://graphql.org/" target="_blank" title="GraphQL" rel="noreferrer"><img alt="GraphQL" height="44" src="https://skillicons.dev/icons?i=graphql" width="44" /></a>
+<a href="https://svelte.dev/" target="_blank" title="Svelte" rel="noreferrer"><img alt="Svelte" height="44" src="https://skillicons.dev/icons?i=svelte" width="44" /></a>
+<a href="https://reactjs.org/" target="_blank" title="React" rel="noreferrer"><img alt="React" height="44" src="https://skillicons.dev/icons?i=react" width="44" /></a>
+<a href="https://nextjs.org/" target="_blank" title="Next.js" rel="noreferrer"><img alt="NextJs" height="44" src="https://skillicons.dev/icons?i=next" width="44" /></a>
+<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" rel="noreferrer"><img alt="Tailwind CSS" height="44" src="https://skillicons.dev/icons?i=tailwind" width="44" /></a>
+<a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"><img alt="Docker" height="44" src="https://skillicons.dev/icons?i=docker" width="44" /></a>
+<a href="https://redis.io/" target="_blank" title="Redis" rel="noreferrer"><img alt="Redis" height="44" src="https://skillicons.dev/icons?i=redis" width="44" /></a>
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" rel="noreferrer"><img alt="PostgreSQL" height="44" src="https://skillicons.dev/icons?i=postgres" width="44" /></a>
+<a href="https://supabase.io/" target="_blank" title="Supabase" rel="noreferrer"><img alt="Supabase" height="44" src="https://skillicons.dev/icons?i=supabase" width="44" /></a>
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"><img alt="MongoDB" height="44" src="https://skillicons.dev/icons?i=mongo" width="44" /></a>
 </div>
 
 ### Top Repositories 🥇
