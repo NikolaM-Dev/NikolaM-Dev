@@ -17,7 +17,7 @@ success of ambitious projects.
 - 🧠 I'm learning Software Architecture & Soft Skills
 - 🤝 I'm open to collaborating on Personal Side Projects
 
-### Skills 🔥
+## 🔥 Skills
 
 <div align="left">
 <a href="https://neovim.io/" target="_blank" title="Neovim" rel="noreferrer"><img alt="Neovim" height="44" src="https://skillicons.dev/icons?i=neovim" width="44" /></a>
@@ -36,7 +36,7 @@ success of ambitious projects.
 <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"><img alt="MongoDB" height="44" src="https://skillicons.dev/icons?i=mongo" width="44" /></a>
 </div>
 
-### Top Repositories 🥇
+## 🥇 Top Repositories
 
 <h4>
   <img
@@ -111,7 +111,7 @@ success of ambitious projects.
 &nbsp;
 </div>
 
-### Interesting 👀
+## 👀 Interesting
 
 <details>
   <summary>
