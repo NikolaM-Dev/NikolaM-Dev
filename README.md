@@ -40,63 +40,6 @@ success of ambitious projects.
 
 <h4>
   <img
-    alt="NestJS"
-    height="16"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-    width="16"
-  />
-  Nest.js
-</h4>
-
-<div float="left">
-<a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo#gh-dark-mode-only"><img alt="Ecommerce Store - MongoDB" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-mongo#gh-light-mode-only"><img alt="Ecommerce Store - MongoDB" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-mongo&v=3#gh-light-mode-only" /></a>
-&nbsp;
-<a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres#gh-dark-mode-only"><img alt="Ecommerce Store - PostgreSQL" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/ecommerce-store-nest-postgres#gh-light-mode-only"><img alt="Ecommerce Store - PostgreSQL" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=ecommerce-store-nest-postgres&v=3#gh-light-mode-only" /></a>
-&nbsp;
-</div>
-
-<div float="left">
-<a href="https://github.com/NikolaM-Dev/parq-api-nest#gh-dark-mode-only"><img alt="PARQ - Code Interview" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/parq-api-nest#gh-light-mode-only"><img alt="PARQ - Code Interview" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=parq-api-nest&v=3#gh-light-mode-only" /></a>
-&nbsp;
-</div>
-
-<h4>
-  <img
-    alt="ReactJS"
-    height="16"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-    width="16"
-  />
-  React.js
-</h4>
-
-<div float="left">
-<a href="https://github.com/NikolaM-Dev/giffy#gh-dark-mode-only"><img alt="Giffy" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/giffy#gh-light-mode-only"><img alt="Giffy" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=giffy&v=3#gh-light-mode-only" /></a>
-&nbsp;
-</div>
-
-<h4>
-  <img
-    alt="Go"
-    height="16"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
-    width="16"
-  />
-  Go
-</h4>
-
-<div float="left">
-<a href="https://github.com/NikolaM-Dev/bookings#gh-dark-mode-only"><img alt="Bookings" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=bookings&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" /></a>
-<a href="https://github.com/NikolaM-Dev/bookings#gh-light-mode-only"><img alt="Bookings" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaM-Dev&repo=bookings&v=3#gh-light-mode-only" /></a>
-&nbsp;
-</div>
-
-<h4>
-  <img
     alt="Neovim"
     height="16"
     src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"
