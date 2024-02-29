@@ -74,7 +74,7 @@ success of ambitious projects.
   </summary>
    <a href="http://www.github.com/NikolaM-Dev">
     <img
-      alt="GitHub Commits Graph" 
+      alt="GitHub Commits Graph"
       src="https://github-readme-activity-graph.vercel.app/graph?username=NikolaM-Dev&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f38ba8&area=true&hide_border=true"
     />
   </a>
