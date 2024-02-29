@@ -14,7 +14,7 @@ success of ambitious projects.
 - 🖥️ See my portfolio at [Portfolio | WIP](http://nikolam-dev.com)
 - ✉️ You can contact me at [juan1014166@gmail.com](mailto:juan1014166@gmail.com)
 - 🚀 I'm currently working on [PARQ](http://parqco.com)
-- 🧠 I'm learning Software Architecture & Soft Skills
+- 🧠 I'm learning English
 - 🤝 I'm open to collaborating on Personal Side Projects
 
 ## 🔥 Skills
