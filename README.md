@@ -25,7 +25,6 @@ success of ambitious projects.
 <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img alt="TypeScript" height="44" src="https://skillicons.dev/icons?i=ts" width="44" /></a>
 <a href="https://www.lua.org/" target="_blank" title="Lua" rel="noreferrer"><img alt="Lua" height="44" src="https://skillicons.dev/icons?i=lua" width="44" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" title="NestJS" rel="noreferrer"><img alt="NestJS" height="44" src="https://skillicons.dev/icons?i=nest" width="44" /></a>
-<a href="https://graphql.org/" target="_blank" title="GraphQL" rel="noreferrer"><img alt="GraphQL" height="44" src="https://skillicons.dev/icons?i=graphql" width="44" /></a>
 <a href="https://svelte.dev/" target="_blank" title="Svelte" rel="noreferrer"><img alt="Svelte" height="44" src="https://skillicons.dev/icons?i=svelte" width="44" /></a>
 <a href="https://reactjs.org/" target="_blank" title="React" rel="noreferrer"><img alt="React" height="44" src="https://skillicons.dev/icons?i=react" width="44" /></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js" rel="noreferrer"><img alt="NextJs" height="44" src="https://skillicons.dev/icons?i=next" width="44" /></a>
