@@ -22,15 +22,12 @@ success of ambitious projects.
 <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img alt="TypeScript" height="44" src="https://skillicons.dev/icons?i=ts" width="44" /></a>
 <a href="https://www.lua.org/" target="_blank" title="Lua" rel="noreferrer"><img alt="Lua" height="44" src="https://skillicons.dev/icons?i=lua" width="44" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" title="NestJS" rel="noreferrer"><img alt="NestJS" height="44" src="https://skillicons.dev/icons?i=nest" width="44" /></a>
-<a href="https://svelte.dev/" target="_blank" title="Svelte" rel="noreferrer"><img alt="Svelte" height="44" src="https://skillicons.dev/icons?i=svelte" width="44" /></a>
 <a href="https://reactjs.org/" target="_blank" title="React" rel="noreferrer"><img alt="React" height="44" src="https://skillicons.dev/icons?i=react" width="44" /></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js" rel="noreferrer"><img alt="NextJs" height="44" src="https://skillicons.dev/icons?i=next" width="44" /></a>
 <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" rel="noreferrer"><img alt="Tailwind CSS" height="44" src="https://skillicons.dev/icons?i=tailwind" width="44" /></a>
 <a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"><img alt="Docker" height="44" src="https://skillicons.dev/icons?i=docker" width="44" /></a>
 <a href="https://redis.io/" target="_blank" title="Redis" rel="noreferrer"><img alt="Redis" height="44" src="https://skillicons.dev/icons?i=redis" width="44" /></a>
 <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" rel="noreferrer"><img alt="PostgreSQL" height="44" src="https://skillicons.dev/icons?i=postgres" width="44" /></a>
-<a href="https://supabase.io/" target="_blank" title="Supabase" rel="noreferrer"><img alt="Supabase" height="44" src="https://skillicons.dev/icons?i=supabase" width="44" /></a>
-<a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"><img alt="MongoDB" height="44" src="https://skillicons.dev/icons?i=mongo" width="44" /></a>
 </div>
 
 ## 🥇 Top Repositories
